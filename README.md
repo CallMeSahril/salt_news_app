@@ -1,7 +1,7 @@
 
 # News App
 
-Projek ini dibuat mengunakan state managament Provider dan Http. Dengan tampilan UI mengunakan Theme dan Animation bawaan Widget Hero. Unit test untuk API dengan metode sederhana 
+Projek ini dibuat mengunakan state managament Provider dan Http. Dengan tampilan UI mengunakan Theme dan Animation bawaan Widget Hero. Unit test untuk cek API dengan metode sederhana 
 ## Documentation
 
 [Provider](https://pub.dev/packages/provider)
